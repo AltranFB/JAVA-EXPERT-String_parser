@@ -1,12 +1,12 @@
 public class Solution {
 	
-	public static int DoIt() {
+	static boolean check(String str) {
 		// -----------------------
 		//
 		//  INSERT YOUR CODE HERE
 		//
 		// -----------------------
-		return 0;
+		return true;
 	}
 
 	public static void main(String[] args) {
